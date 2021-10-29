@@ -22,6 +22,9 @@
   
   <img align= "center" alt="Bruno-MySQL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
+  <img align= "right" alt="MasterChief" height="150" style="border-radius:50px;"
+       src=https://static.wikia.nocookie.net/deathbattle/images/a/a6/Portrait.masterchief.png/revision/latest/top-crop/width/360/height/450?cb>
+  
 
   
 
@@ -36,6 +39,5 @@
   <a href = "mailto:brunofvincensi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-ferrari-vincensi-0ab567208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Bruno-ferrariv/Bruno-ferrariv/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
