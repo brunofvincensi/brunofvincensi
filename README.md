@@ -1,4 +1,4 @@
-### Hi there! I am Bruno Ferrari
+### Hi there! I am Bruno
 
 
 - 🔭 I’m currently working on t-system
