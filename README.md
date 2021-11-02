@@ -1,7 +1,7 @@
 ### Hi there! I am Bruno
 
 
-- 🔭 I’m currently working on t-system
+- 🔭 I’m currently working on t-systems
 - 🌱 I’m currently learning Java and Data Base
 
 <div align="center">
