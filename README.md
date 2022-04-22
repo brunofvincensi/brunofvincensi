@@ -1,8 +1,8 @@
 ### Hi there! I am Bruno
 
 
-- 🔭 I’m currently working on t-systems
-- 🌱 I’m currently learning Java and Data Base
+- 🔭 I’m currently working on Publica Tecnologia
+- 🌱 I’m currently learning more of Java and Angular
 
 <div align="center">
   
