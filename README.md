@@ -1,7 +1,7 @@
 ### Hi there! I am Bruno
 
 
-- 🔭 I’m currently working on Publica Tecnologia
+- 🔭 I’m currently working on Pública Tecnologia
 - 🌱 I’m currently learning more of Java and Angular
 
 <div align="center">
