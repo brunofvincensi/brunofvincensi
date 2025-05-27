@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm a Full Stack Developer with 4 years of experience
-- 🌱 I'm currently pursuing a Bachelor's degree in Computer Science at FURB
+- 🌱 I'm currently pursuing a Bachelor's degree in Information Systems at FURB
 
 <div align="center">
   
