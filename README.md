@@ -1,8 +1,8 @@
 ### Hi there! I am Bruno
 
 
-- 🔭 I’m currently working on Pública Tecnologia
-- 🌱 I’m currently learning more of Java and Angular
+- 🔭 I'm a Full Stack Developer with 4 years of experience
+- 🌱 I'm currently pursuing a Bachelor's degree in Computer Science at FURB – Regional University of Blumenau (Brazil)
 
 <div align="center">
   
